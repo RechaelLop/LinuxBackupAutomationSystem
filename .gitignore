@@ -1,0 +1,31 @@
+# Backup files (don't commit these!)
+backup/
+*.tar
+*.log
+
+# Windows files
+*.exe
+*.dll
+Thumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
+._*
+
+# VS Code settings (optional)
+.vscode/
+
+# Temp files
+*.tmp
+*.temp
+*~
+
+# Script backups
+*.original
+*_test.sh
+
+# Log files
+*.log
+w25log.txt
+backup.log
