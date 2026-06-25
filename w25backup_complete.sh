@@ -1,5 +1,3 @@
-# Create the complete backup script
-cat > w25backup_complete.sh << 'EOF'
 #!/bin/sh
 # ============================================
 # LINUX BACKUP AUTOMATION SYSTEM (COMPLETE)
@@ -160,4 +158,3 @@ echo ""
 echo "========================================="
 echo "✅ Backup cycle completed!"
 echo "========================================="
-EOF
